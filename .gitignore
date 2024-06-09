@@ -1,0 +1,9 @@
+*.log
+**/*.out
+**/*.s
+/tmp*
+a.out
+/rvcc
+build/
+.cache/
+.vscode/
